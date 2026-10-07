@@ -1,6 +1,6 @@
 # Background Music
 
-The playlist plays Arabesque No. 1, then Clair de lune, and repeats in that order.
+The playlist plays Clair de lune, then Arabesque No. 1, and repeats in that order.
 
 ## Arabesque No. 1
 
