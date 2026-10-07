@@ -11,7 +11,7 @@ The playlist plays Arabesque No. 1, then Clair de lune, and repeats in that orde
 - Recording source: https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Premi%C3%A8re_Arabesque_-_Patrizia_Prati.ogg
 - Performer: https://www.patriziaprati.eu/
 - Local file: arabesque-no-1.mp3, Wikimedia's MP3 transcode of the Ogg recording, distributed under CC BY-SA 4.0.
-- Changes: MP3 transcoding by Wikimedia; no further audio edits. Playback volume is set to 20% by the website.
+- Changes: MP3 transcoding by Wikimedia; no further audio edits. Playback volume is set to 40% by the website.
 
 ## Clair de lune
 
@@ -22,6 +22,6 @@ The playlist plays Arabesque No. 1, then Clair de lune, and repeats in that orde
 - Recording source: https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg
 - Original performance: https://soundcloud.com/laurensgoedhart/claude-debussys-clair-de-lune
 - Local file: clair-de-lune.mp3, Wikimedia's MP3 transcode of the Ogg recording.
-- Changes: MP3 transcoding by Wikimedia; no further audio edits. Playback volume is set to 20% by the website.
+- Changes: MP3 transcoding by Wikimedia; no further audio edits. Playback volume is set to 40% by the website.
 
 The recording license is separate from the public-domain musical composition.
